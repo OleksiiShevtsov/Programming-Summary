@@ -1,0 +1,5 @@
+J:\programming\C#\12)Работа со строками\task_12\task_12\bin\Debug\task_12.exe
+J:\programming\C#\12)Работа со строками\task_12\task_12\bin\Debug\task_12.pdb
+J:\programming\C#\12)Работа со строками\task_12\task_12\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\programming\C#\12)Работа со строками\task_12\task_12\obj\x86\Debug\task_12.exe
+J:\programming\C#\12)Работа со строками\task_12\task_12\obj\x86\Debug\task_12.pdb

@@ -1,0 +1,7 @@
+E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\6)КОНВЕРТАЦИЯ СТРОКИ В ЧИСЛО\task_6\task_6\bin\Debug\task_6.exe.config
+E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\6)КОНВЕРТАЦИЯ СТРОКИ В ЧИСЛО\task_6\task_6\bin\Debug\task_6.exe
+E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\6)КОНВЕРТАЦИЯ СТРОКИ В ЧИСЛО\task_6\task_6\bin\Debug\task_6.pdb
+E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\6)КОНВЕРТАЦИЯ СТРОКИ В ЧИСЛО\task_6\task_6\obj\Debug\task_6.csprojAssemblyReference.cache
+E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\6)КОНВЕРТАЦИЯ СТРОКИ В ЧИСЛО\task_6\task_6\obj\Debug\task_6.csproj.CoreCompileInputs.cache
+E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\6)КОНВЕРТАЦИЯ СТРОКИ В ЧИСЛО\task_6\task_6\obj\Debug\task_6.exe
+E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\6)КОНВЕРТАЦИЯ СТРОКИ В ЧИСЛО\task_6\task_6\obj\Debug\task_6.pdb

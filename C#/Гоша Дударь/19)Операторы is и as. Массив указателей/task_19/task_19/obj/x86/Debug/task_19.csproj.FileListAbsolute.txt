@@ -1,0 +1,5 @@
+J:\programming\C#\Гоша Дударь\19)Операторы is и as. Массив указателей\task_19\task_19\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\programming\C#\Гоша Дударь\19)Операторы is и as. Массив указателей\task_19\task_19\bin\Debug\task_19.exe
+J:\programming\C#\Гоша Дударь\19)Операторы is и as. Массив указателей\task_19\task_19\bin\Debug\task_19.pdb
+J:\programming\C#\Гоша Дударь\19)Операторы is и as. Массив указателей\task_19\task_19\obj\x86\Debug\task_19.exe
+J:\programming\C#\Гоша Дударь\19)Операторы is и as. Массив указателей\task_19\task_19\obj\x86\Debug\task_19.pdb

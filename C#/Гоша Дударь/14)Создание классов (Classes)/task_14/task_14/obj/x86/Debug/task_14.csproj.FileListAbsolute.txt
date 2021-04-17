@@ -1,0 +1,5 @@
+J:\programming\C#\14)Создание классов (Classes)\task_14\task_14\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\programming\C#\14)Создание классов (Classes)\task_14\task_14\bin\Debug\task_14.exe
+J:\programming\C#\14)Создание классов (Classes)\task_14\task_14\bin\Debug\task_14.pdb
+J:\programming\C#\14)Создание классов (Classes)\task_14\task_14\obj\x86\Debug\task_14.exe
+J:\programming\C#\14)Создание классов (Classes)\task_14\task_14\obj\x86\Debug\task_14.pdb

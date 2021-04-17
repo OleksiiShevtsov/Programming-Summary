@@ -1,0 +1,5 @@
+J:\programming\C#\Гоша Дударь\20)Виртуальные методы\tasc_20\tasc_20\bin\Debug\tasc_20.exe
+J:\programming\C#\Гоша Дударь\20)Виртуальные методы\tasc_20\tasc_20\bin\Debug\tasc_20.pdb
+J:\programming\C#\Гоша Дударь\20)Виртуальные методы\tasc_20\tasc_20\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\programming\C#\Гоша Дударь\20)Виртуальные методы\tasc_20\tasc_20\obj\x86\Debug\tasc_20.exe
+J:\programming\C#\Гоша Дударь\20)Виртуальные методы\tasc_20\tasc_20\obj\x86\Debug\tasc_20.pdb

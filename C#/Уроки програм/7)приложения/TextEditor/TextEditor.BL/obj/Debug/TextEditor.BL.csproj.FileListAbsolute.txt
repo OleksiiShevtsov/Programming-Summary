@@ -1,0 +1,6 @@
+E:\programming\C#\Уроки програм\7)приложения\TextEditor\TextEditor.BL\bin\Debug\TextEditor.BL.dll
+E:\programming\C#\Уроки програм\7)приложения\TextEditor\TextEditor.BL\bin\Debug\TextEditor.BL.pdb
+E:\programming\C#\Уроки програм\7)приложения\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.csprojAssemblyReference.cache
+E:\programming\C#\Уроки програм\7)приложения\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.csproj.CoreCompileInputs.cache
+E:\programming\C#\Уроки програм\7)приложения\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.dll
+E:\programming\C#\Уроки програм\7)приложения\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.pdb

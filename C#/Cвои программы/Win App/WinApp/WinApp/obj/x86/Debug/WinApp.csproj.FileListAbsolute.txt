@@ -1,0 +1,5 @@
+J:\programming\C#\Cвои программы\Win App\WinApp\WinApp\bin\Debug\WinApp.exe
+J:\programming\C#\Cвои программы\Win App\WinApp\WinApp\bin\Debug\WinApp.pdb
+J:\programming\C#\Cвои программы\Win App\WinApp\WinApp\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\programming\C#\Cвои программы\Win App\WinApp\WinApp\obj\x86\Debug\WinApp.exe
+J:\programming\C#\Cвои программы\Win App\WinApp\WinApp\obj\x86\Debug\WinApp.pdb

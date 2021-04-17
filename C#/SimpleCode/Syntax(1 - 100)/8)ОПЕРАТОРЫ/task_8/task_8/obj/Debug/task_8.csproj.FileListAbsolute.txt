@@ -1,0 +1,7 @@
+E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\8)ОПЕРАТОРЫ\task_8\task_8\bin\Debug\task_8.exe.config
+E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\8)ОПЕРАТОРЫ\task_8\task_8\bin\Debug\task_8.exe
+E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\8)ОПЕРАТОРЫ\task_8\task_8\bin\Debug\task_8.pdb
+E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\8)ОПЕРАТОРЫ\task_8\task_8\obj\Debug\task_8.csprojAssemblyReference.cache
+E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\8)ОПЕРАТОРЫ\task_8\task_8\obj\Debug\task_8.csproj.CoreCompileInputs.cache
+E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\8)ОПЕРАТОРЫ\task_8\task_8\obj\Debug\task_8.exe
+E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\8)ОПЕРАТОРЫ\task_8\task_8\obj\Debug\task_8.pdb

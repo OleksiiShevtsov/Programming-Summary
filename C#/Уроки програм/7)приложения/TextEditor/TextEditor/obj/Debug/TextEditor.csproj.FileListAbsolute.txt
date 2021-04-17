@@ -1,0 +1,13 @@
+E:\programming\C#\Уроки програм\7)приложения\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+E:\programming\C#\Уроки програм\7)приложения\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+E:\programming\C#\Уроки програм\7)приложения\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+E:\programming\C#\Уроки програм\7)приложения\TextEditor\TextEditor\bin\Debug\TextEditor.BL.dll
+E:\programming\C#\Уроки програм\7)приложения\TextEditor\TextEditor\bin\Debug\TextEditor.BL.pdb
+E:\programming\C#\Уроки програм\7)приложения\TextEditor\TextEditor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+E:\programming\C#\Уроки програм\7)приложения\TextEditor\TextEditor\obj\Debug\TextEditor.Form1.resources
+E:\programming\C#\Уроки програм\7)приложения\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+E:\programming\C#\Уроки програм\7)приложения\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+E:\programming\C#\Уроки програм\7)приложения\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+E:\programming\C#\Уроки програм\7)приложения\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CopyComplete
+E:\programming\C#\Уроки програм\7)приложения\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+E:\programming\C#\Уроки програм\7)приложения\TextEditor\TextEditor\obj\Debug\TextEditor.pdb

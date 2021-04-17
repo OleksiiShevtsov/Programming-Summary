@@ -1,0 +1,7 @@
+E:\programming\C#\Michael Nikolaev\33)Тернарный Оператор\task_33\task_33\bin\Debug\task_33.exe.config
+E:\programming\C#\Michael Nikolaev\33)Тернарный Оператор\task_33\task_33\bin\Debug\task_33.exe
+E:\programming\C#\Michael Nikolaev\33)Тернарный Оператор\task_33\task_33\bin\Debug\task_33.pdb
+E:\programming\C#\Michael Nikolaev\33)Тернарный Оператор\task_33\task_33\obj\Debug\task_33.csprojAssemblyReference.cache
+E:\programming\C#\Michael Nikolaev\33)Тернарный Оператор\task_33\task_33\obj\Debug\task_33.csproj.CoreCompileInputs.cache
+E:\programming\C#\Michael Nikolaev\33)Тернарный Оператор\task_33\task_33\obj\Debug\task_33.exe
+E:\programming\C#\Michael Nikolaev\33)Тернарный Оператор\task_33\task_33\obj\Debug\task_33.pdb

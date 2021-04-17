@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\task_28\task_28\bin\Debug\task_28.exe.config
+C:\Users\USER\Desktop\task_28\task_28\bin\Debug\task_28.exe
+C:\Users\USER\Desktop\task_28\task_28\bin\Debug\task_28.pdb
+C:\Users\USER\Desktop\task_28\task_28\obj\Debug\task_28.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\task_28\task_28\obj\Debug\task_28.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\task_28\task_28\obj\Debug\task_28.exe
+C:\Users\USER\Desktop\task_28\task_28\obj\Debug\task_28.pdb

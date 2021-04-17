@@ -1,0 +1,7 @@
+E:\programming\C#\Michael Nikolaev\30)Делегаты\task_30\task_30\bin\Debug\task_30.exe.config
+E:\programming\C#\Michael Nikolaev\30)Делегаты\task_30\task_30\bin\Debug\task_30.exe
+E:\programming\C#\Michael Nikolaev\30)Делегаты\task_30\task_30\bin\Debug\task_30.pdb
+E:\programming\C#\Michael Nikolaev\30)Делегаты\task_30\task_30\obj\Debug\task_30.csprojAssemblyReference.cache
+E:\programming\C#\Michael Nikolaev\30)Делегаты\task_30\task_30\obj\Debug\task_30.csproj.CoreCompileInputs.cache
+E:\programming\C#\Michael Nikolaev\30)Делегаты\task_30\task_30\obj\Debug\task_30.exe
+E:\programming\C#\Michael Nikolaev\30)Делегаты\task_30\task_30\obj\Debug\task_30.pdb

@@ -1,0 +1,5 @@
+J:\programming\C#\Гоша Дударь\23)Перегрузка методов\task_23\task_23\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\programming\C#\Гоша Дударь\23)Перегрузка методов\task_23\task_23\bin\Debug\task_23.exe
+J:\programming\C#\Гоша Дударь\23)Перегрузка методов\task_23\task_23\bin\Debug\task_23.pdb
+J:\programming\C#\Гоша Дударь\23)Перегрузка методов\task_23\task_23\obj\x86\Debug\task_23.exe
+J:\programming\C#\Гоша Дударь\23)Перегрузка методов\task_23\task_23\obj\x86\Debug\task_23.pdb

@@ -1,0 +1,16 @@
+C:\Users\Гость\Desktop\3)Делегаты и события\task_3\task_3\bin\Debug\task_3.exe
+C:\Users\Гость\Desktop\3)Делегаты и события\task_3\task_3\bin\Debug\task_3.pdb
+C:\Users\Гость\Desktop\3)Делегаты и события\task_3\task_3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Гость\Desktop\3)Делегаты и события\task_3\task_3\obj\x86\Debug\task_3.exe
+C:\Users\Гость\Desktop\3)Делегаты и события\task_3\task_3\obj\x86\Debug\task_3.pdb
+G:\3)Делегаты и события\task_3\task_3\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\3)Делегаты и события\task_3\task_3\obj\x86\Debug\task_3.exe
+G:\3)Делегаты и события\task_3\task_3\obj\x86\Debug\task_3.pdb
+G:\3)Делегаты и события\task_3\task_3\bin\Debug\task_3.exe
+G:\3)Делегаты и события\task_3\task_3\bin\Debug\task_3.pdb
+E:\programming\C#\Уроки програм\3)Делегаты и события\task_3\task_3\bin\Debug\task_3.exe
+E:\programming\C#\Уроки програм\3)Делегаты и события\task_3\task_3\bin\Debug\task_3.pdb
+E:\programming\C#\Уроки програм\3)Делегаты и события\task_3\task_3\obj\x86\Debug\task_3.csprojAssemblyReference.cache
+E:\programming\C#\Уроки програм\3)Делегаты и события\task_3\task_3\obj\x86\Debug\task_3.csproj.CoreCompileInputs.cache
+E:\programming\C#\Уроки програм\3)Делегаты и события\task_3\task_3\obj\x86\Debug\task_3.exe
+E:\programming\C#\Уроки програм\3)Делегаты и события\task_3\task_3\obj\x86\Debug\task_3.pdb

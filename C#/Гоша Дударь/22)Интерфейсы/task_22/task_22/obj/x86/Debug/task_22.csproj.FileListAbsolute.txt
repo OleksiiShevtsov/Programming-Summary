@@ -1,0 +1,5 @@
+J:\programming\C#\Гоша Дударь\22)Интерфейсы\task_22\task_22\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\programming\C#\Гоша Дударь\22)Интерфейсы\task_22\task_22\bin\Debug\task_22.exe
+J:\programming\C#\Гоша Дударь\22)Интерфейсы\task_22\task_22\bin\Debug\task_22.pdb
+J:\programming\C#\Гоша Дударь\22)Интерфейсы\task_22\task_22\obj\x86\Debug\task_22.exe
+J:\programming\C#\Гоша Дударь\22)Интерфейсы\task_22\task_22\obj\x86\Debug\task_22.pdb

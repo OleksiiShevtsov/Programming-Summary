@@ -1,0 +1,7 @@
+E:\programming\C#\Michael Nikolaev\39)Алгоритмы, Сортировка\task_39\task_39\bin\Debug\task_39.exe.config
+E:\programming\C#\Michael Nikolaev\39)Алгоритмы, Сортировка\task_39\task_39\bin\Debug\task_39.exe
+E:\programming\C#\Michael Nikolaev\39)Алгоритмы, Сортировка\task_39\task_39\bin\Debug\task_39.pdb
+E:\programming\C#\Michael Nikolaev\39)Алгоритмы, Сортировка\task_39\task_39\obj\Debug\task_39.csprojAssemblyReference.cache
+E:\programming\C#\Michael Nikolaev\39)Алгоритмы, Сортировка\task_39\task_39\obj\Debug\task_39.csproj.CoreCompileInputs.cache
+E:\programming\C#\Michael Nikolaev\39)Алгоритмы, Сортировка\task_39\task_39\obj\Debug\task_39.exe
+E:\programming\C#\Michael Nikolaev\39)Алгоритмы, Сортировка\task_39\task_39\obj\Debug\task_39.pdb

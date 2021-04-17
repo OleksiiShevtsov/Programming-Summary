@@ -1,0 +1,7 @@
+E:\programming\C#\Michael Nikolaev\24)Обработка исключений\task_24\task_24\bin\Debug\task_24.exe.config
+E:\programming\C#\Michael Nikolaev\24)Обработка исключений\task_24\task_24\bin\Debug\task_24.exe
+E:\programming\C#\Michael Nikolaev\24)Обработка исключений\task_24\task_24\bin\Debug\task_24.pdb
+E:\programming\C#\Michael Nikolaev\24)Обработка исключений\task_24\task_24\obj\Debug\task_24.csprojAssemblyReference.cache
+E:\programming\C#\Michael Nikolaev\24)Обработка исключений\task_24\task_24\obj\Debug\task_24.csproj.CoreCompileInputs.cache
+E:\programming\C#\Michael Nikolaev\24)Обработка исключений\task_24\task_24\obj\Debug\task_24.exe
+E:\programming\C#\Michael Nikolaev\24)Обработка исключений\task_24\task_24\obj\Debug\task_24.pdb

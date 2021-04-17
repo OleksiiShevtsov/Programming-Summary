@@ -1,0 +1,10 @@
+J:\programming\C#\9)Массивы\task_9\task_9\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\programming\C#\9)Массивы\task_9\task_9\bin\Debug\task_9.exe
+J:\programming\C#\9)Массивы\task_9\task_9\bin\Debug\task_9.pdb
+J:\programming\C#\9)Массивы\task_9\task_9\obj\x86\Debug\task_9.exe
+J:\programming\C#\9)Массивы\task_9\task_9\obj\x86\Debug\task_9.pdb
+J:\programming\C#\Гоша Дударь\9)Массивы\task_9\task_9\bin\Debug\task_9.exe
+J:\programming\C#\Гоша Дударь\9)Массивы\task_9\task_9\bin\Debug\task_9.pdb
+J:\programming\C#\Гоша Дударь\9)Массивы\task_9\task_9\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\programming\C#\Гоша Дударь\9)Массивы\task_9\task_9\obj\x86\Debug\task_9.exe
+J:\programming\C#\Гоша Дударь\9)Массивы\task_9\task_9\obj\x86\Debug\task_9.pdb

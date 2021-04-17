@@ -1,0 +1,5 @@
+J:\programming\C#\Гоша Дударь\21)Абстрактные классы, методы и свойства\task_21\task_21\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\programming\C#\Гоша Дударь\21)Абстрактные классы, методы и свойства\task_21\task_21\bin\Debug\task_21.exe
+J:\programming\C#\Гоша Дударь\21)Абстрактные классы, методы и свойства\task_21\task_21\bin\Debug\task_21.pdb
+J:\programming\C#\Гоша Дударь\21)Абстрактные классы, методы и свойства\task_21\task_21\obj\x86\Debug\task_21.exe
+J:\programming\C#\Гоша Дударь\21)Абстрактные классы, методы и свойства\task_21\task_21\obj\x86\Debug\task_21.pdb

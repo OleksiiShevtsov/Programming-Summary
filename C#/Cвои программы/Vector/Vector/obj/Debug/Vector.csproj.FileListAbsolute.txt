@@ -1,0 +1,7 @@
+E:\programming\C#\Cвои программы\Vector\Vector\obj\Debug\Vector.csprojAssemblyReference.cache
+E:\programming\C#\Cвои программы\Vector\Vector\obj\Debug\Vector.csproj.CoreCompileInputs.cache
+E:\programming\C#\Cвои программы\Vector\Vector\bin\Debug\Vector.exe.config
+E:\programming\C#\Cвои программы\Vector\Vector\bin\Debug\Vector.exe
+E:\programming\C#\Cвои программы\Vector\Vector\bin\Debug\Vector.pdb
+E:\programming\C#\Cвои программы\Vector\Vector\obj\Debug\Vector.exe
+E:\programming\C#\Cвои программы\Vector\Vector\obj\Debug\Vector.pdb

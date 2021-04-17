@@ -1,0 +1,5 @@
+J:\programming\C#\Гоша Дударь\24)\task_24\task_24\bin\Debug\task_24.exe
+J:\programming\C#\Гоша Дударь\24)\task_24\task_24\bin\Debug\task_24.pdb
+J:\programming\C#\Гоша Дударь\24)\task_24\task_24\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\programming\C#\Гоша Дударь\24)\task_24\task_24\obj\x86\Debug\task_24.exe
+J:\programming\C#\Гоша Дударь\24)\task_24\task_24\obj\x86\Debug\task_24.pdb

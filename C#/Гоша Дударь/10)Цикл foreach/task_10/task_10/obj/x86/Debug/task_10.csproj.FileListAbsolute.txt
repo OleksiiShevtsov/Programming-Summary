@@ -1,0 +1,5 @@
+J:\programming\C#\10)Цикл foreach\task_10\task_10\bin\Debug\task_10.exe
+J:\programming\C#\10)Цикл foreach\task_10\task_10\bin\Debug\task_10.pdb
+J:\programming\C#\10)Цикл foreach\task_10\task_10\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\programming\C#\10)Цикл foreach\task_10\task_10\obj\x86\Debug\task_10.exe
+J:\programming\C#\10)Цикл foreach\task_10\task_10\obj\x86\Debug\task_10.pdb

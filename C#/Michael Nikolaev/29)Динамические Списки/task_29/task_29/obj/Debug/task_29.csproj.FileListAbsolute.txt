@@ -1,0 +1,7 @@
+E:\programming\C#\Michael Nikolaev\29)Динамические Списки\task_29\task_29\bin\Debug\task_29.exe.config
+E:\programming\C#\Michael Nikolaev\29)Динамические Списки\task_29\task_29\bin\Debug\task_29.exe
+E:\programming\C#\Michael Nikolaev\29)Динамические Списки\task_29\task_29\bin\Debug\task_29.pdb
+E:\programming\C#\Michael Nikolaev\29)Динамические Списки\task_29\task_29\obj\Debug\task_29.csprojAssemblyReference.cache
+E:\programming\C#\Michael Nikolaev\29)Динамические Списки\task_29\task_29\obj\Debug\task_29.csproj.CoreCompileInputs.cache
+E:\programming\C#\Michael Nikolaev\29)Динамические Списки\task_29\task_29\obj\Debug\task_29.exe
+E:\programming\C#\Michael Nikolaev\29)Динамические Списки\task_29\task_29\obj\Debug\task_29.pdb

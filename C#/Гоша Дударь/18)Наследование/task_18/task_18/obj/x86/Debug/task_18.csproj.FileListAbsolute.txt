@@ -1,0 +1,5 @@
+J:\programming\C#\Гоша Дударь\18)Наследование\task_18\task_18\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\programming\C#\Гоша Дударь\18)Наследование\task_18\task_18\bin\Debug\task_18.exe
+J:\programming\C#\Гоша Дударь\18)Наследование\task_18\task_18\bin\Debug\task_18.pdb
+J:\programming\C#\Гоша Дударь\18)Наследование\task_18\task_18\obj\x86\Debug\task_18.exe
+J:\programming\C#\Гоша Дударь\18)Наследование\task_18\task_18\obj\x86\Debug\task_18.pdb

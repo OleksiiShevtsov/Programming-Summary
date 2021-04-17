@@ -1,0 +1,7 @@
+E:\programming\C#\Michael Nikolaev\26)Работаем с файлами (2)\task_26\task_26\bin\Debug\task_26.exe.config
+E:\programming\C#\Michael Nikolaev\26)Работаем с файлами (2)\task_26\task_26\bin\Debug\task_26.exe
+E:\programming\C#\Michael Nikolaev\26)Работаем с файлами (2)\task_26\task_26\bin\Debug\task_26.pdb
+E:\programming\C#\Michael Nikolaev\26)Работаем с файлами (2)\task_26\task_26\obj\Debug\task_26.csprojAssemblyReference.cache
+E:\programming\C#\Michael Nikolaev\26)Работаем с файлами (2)\task_26\task_26\obj\Debug\task_26.csproj.CoreCompileInputs.cache
+E:\programming\C#\Michael Nikolaev\26)Работаем с файлами (2)\task_26\task_26\obj\Debug\task_26.exe
+E:\programming\C#\Michael Nikolaev\26)Работаем с файлами (2)\task_26\task_26\obj\Debug\task_26.pdb

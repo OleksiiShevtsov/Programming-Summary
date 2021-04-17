@@ -1,0 +1,7 @@
+E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\5)ВВОД ДАННЫХ В КОНСОЛЬ\task_5\task_5\bin\Debug\task_5.exe.config
+E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\5)ВВОД ДАННЫХ В КОНСОЛЬ\task_5\task_5\bin\Debug\task_5.exe
+E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\5)ВВОД ДАННЫХ В КОНСОЛЬ\task_5\task_5\bin\Debug\task_5.pdb
+E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\5)ВВОД ДАННЫХ В КОНСОЛЬ\task_5\task_5\obj\Debug\task_5.csprojAssemblyReference.cache
+E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\5)ВВОД ДАННЫХ В КОНСОЛЬ\task_5\task_5\obj\Debug\task_5.csproj.CoreCompileInputs.cache
+E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\5)ВВОД ДАННЫХ В КОНСОЛЬ\task_5\task_5\obj\Debug\task_5.exe
+E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\5)ВВОД ДАННЫХ В КОНСОЛЬ\task_5\task_5\obj\Debug\task_5.pdb

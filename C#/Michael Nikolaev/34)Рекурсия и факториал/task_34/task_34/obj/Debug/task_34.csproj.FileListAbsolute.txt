@@ -1,0 +1,7 @@
+E:\programming\C#\Michael Nikolaev\34)Рекурсия и факториал\task_34\task_34\bin\Debug\task_34.exe.config
+E:\programming\C#\Michael Nikolaev\34)Рекурсия и факториал\task_34\task_34\bin\Debug\task_34.exe
+E:\programming\C#\Michael Nikolaev\34)Рекурсия и факториал\task_34\task_34\bin\Debug\task_34.pdb
+E:\programming\C#\Michael Nikolaev\34)Рекурсия и факториал\task_34\task_34\obj\Debug\task_34.csprojAssemblyReference.cache
+E:\programming\C#\Michael Nikolaev\34)Рекурсия и факториал\task_34\task_34\obj\Debug\task_34.csproj.CoreCompileInputs.cache
+E:\programming\C#\Michael Nikolaev\34)Рекурсия и факториал\task_34\task_34\obj\Debug\task_34.exe
+E:\programming\C#\Michael Nikolaev\34)Рекурсия и факториал\task_34\task_34\obj\Debug\task_34.pdb
