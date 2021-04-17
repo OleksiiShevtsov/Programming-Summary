@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\programming\c++\system programming\junior\17)типы\task_17\task_17\source.cpp : warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+e:\programming\c++\system programming\junior\17)типы\task_17\task_17\source.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\programming\c++\system programming\junior\17)типы\task_17\task_17\source.cpp(6): error C3861: 'f': identifier not found

@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\programming\c++\system programming\junior\5)многопоточность\task_5\task_5\main.cpp(17): error C2374: thread1: переопределение; множественная инициализация
+  e:\programming\c++\system programming\junior\5)многопоточность\task_5\task_5\main.cpp(16): note:  см. объявление "thread1"

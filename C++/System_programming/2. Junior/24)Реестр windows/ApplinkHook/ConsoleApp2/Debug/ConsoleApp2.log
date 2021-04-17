@@ -1,0 +1,4 @@
+﻿  ConsoleApp2.cpp
+e:\programming\c++\system programming\junior\24)реестр windows\applinkhook\consoleapp2\consoleapp2.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+E:\programming\C++\System programming\Junior\24)╨ххёЄЁ windows\ApplinkHook\Debug\ConsoleApp2.exe : fatal error LNK1120: 1 unresolved externals
