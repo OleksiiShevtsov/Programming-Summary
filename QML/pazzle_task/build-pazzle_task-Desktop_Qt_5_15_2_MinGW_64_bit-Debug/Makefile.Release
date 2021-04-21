@@ -99,7 +99,9 @@ compiler_rcc_clean:
 	-$(DEL_FILE) release\qrc_qml.cpp
 release/qrc_qml.cpp: ../pazzle_task/qml.qrc \
 		C:/Qt/5.15.2/mingw81_64/bin/rcc.exe \
+		../pazzle_task/GameBoard.qml \
 		../pazzle_task/Tile.qml \
+		../pazzle_task/TilesModel.qml \
 		../pazzle_task/main.qml
 	C:\Qt\5.15.2\mingw81_64\bin\rcc.exe -name qml ..\pazzle_task\qml.qrc -o release\qrc_qml.cpp
 
