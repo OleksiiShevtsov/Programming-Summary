@@ -1,8 +1,10 @@
 import QtQuick 2.0
+import Game 1.0
 
 GridView {
     id: root
-    model: TilesModel {
+
+    model: GameBoardModel{
 
     }
 
@@ -13,6 +15,8 @@ GridView {
         id: _beckgroundDelegate
         width: root.cellWidth
         height: root.cellHeight
+
+        visible: display != 16
 
         Tile{
             anchors.fill: _beckgroundDelegate
