@@ -6,8 +6,14 @@
 class GameBoard : public QAbstractListModel
 {
     Q_OBJECT
+
+    Q_PROPERTY(int boardDimension READ boardDimension CONSTANT)
+    Q_PROPERTY(int hiddenElementValue READ boardSize CONSTANT)
+
 public:
     static constexpr size_t defoultPazzleDimension { 4 };
+    using Position = std::pair<size_t, size_t>;
+
     GameBoard(const size_t boardDimension = defoultPazzleDimension,
               QObject* parent = nullptr);
 
@@ -23,25 +29,19 @@ public:
         }
     };
 
-    //пересмотреть
-    int rowCount(const QModelIndex& parent = QModelIndex {}) const override//переопределение
-    {
-        Q_UNUSED(parent);
-        return m_rowBoard.size();
-    }
-    QVariant data(const QModelIndex& index, int role = Qt::DisplayRole) const override{
-        if(!index.isValid() || role != Qt::DisplayRole){
-            return {};
-        }
+    Q_INVOKABLE bool move(int index);
+    size_t boardDimension() const;
+    size_t boardSize() const;
 
-        const int rowIndex {index.row()};
-
-        return QVariant::fromValue(m_rowBoard[rowIndex].value);
-    }
-
+    int rowCount(const QModelIndex& parent = QModelIndex {}) const override;//переопределение
+    QVariant data(const QModelIndex& index, int role = Qt::DisplayRole) const override;
 
 private:
     void shuffle();
+    bool isPositionValid(const size_t position) const;
+    bool isBoardValid() const;
+
+    Position getRowCol(const size_t index) const;
 
     std::vector<Tile> m_rowBoard;
     const size_t m_boardDimension;

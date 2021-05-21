@@ -8,20 +8,27 @@ GridView {
 
     }
 
-    cellHeight: height / 4
-    cellWidth: width / 4
+    cellHeight: height / root.model.boardDimension
+    cellWidth: width / root.model.boardDimension
 
     delegate: Item{
         id: _beckgroundDelegate
         width: root.cellWidth
         height: root.cellHeight
 
-        visible: display != 16
+        visible: display !== root.model.hiddenElementValue
 
         Tile{
             anchors.fill: _beckgroundDelegate
             anchors.margins: 5
             displayText: display
+
+            MouseArea {
+                anchors.fill: parent
+                onClicked: {
+                    root.model.move(index);
+                }
+            }
         }
     }
 }
