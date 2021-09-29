@@ -1,4 +1,4 @@
-#include <string>
+/*#include <string>
 #include <vector>
 #include <fstream>
 #include <exception>
@@ -62,7 +62,6 @@ void PasswordToKey(std::string& password)
 	}
 }
 
-//
 void DecryptAes(std::vector<unsigned char>& chipherText, std::vector<unsigned char>& plainText)
 {
 	EVP_CIPHER_CTX* ctx = EVP_CIPHER_CTX_new();
@@ -152,7 +151,7 @@ void Encrypt()
 void Decrypt()
 {
 	std::vector<unsigned char> plainText;
-	ReadFile("E:\\programming\\C++\\System programming\\Junior\\home project\\home_project_1\\home_project_1\\chipher_text.txt", plainText);
+	ReadFile("chipher_text.txt", plainText);
 
 	std::vector<unsigned char> hash;
 	CalculateHash(plainText, hash);
@@ -160,12 +159,12 @@ void Decrypt()
 	std::vector<unsigned char> chipherText;
 	DecryptAes(plainText, chipherText);
 
-	WriteFile("E:\\programming\\C++\\System programming\\Junior\\home project\\home_project_1\\home_project_1\\decrypt_text.txt", chipherText);
+	WriteFile("decrypt_text.txt", chipherText);
 
-	AppendToFile("E:\\programming\\C++\\System programming\\Junior\\home project\\home_project_1\\home_project_1\\decrypt_text.txt", hash);
+	AppendToFile("decrypt_text.txt", hash);
 }
 
-int main(){
+int main2(){
 
 	string pass = "pass";
 	unsigned char tag[16];
@@ -181,4 +180,4 @@ int main(){
 
 	int x; cin >> x;
 	return 0;
-}
+}*/

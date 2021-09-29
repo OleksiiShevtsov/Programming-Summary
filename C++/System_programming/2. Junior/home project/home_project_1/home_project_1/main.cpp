@@ -1,4 +1,4 @@
-/*#include <string>
+#include <string>
 #include <vector>
 #include <fstream>
 #include <exception>
@@ -170,7 +170,7 @@ int main()
 	unsigned char aad[] = "Some AAD data";
 
 	//вычитать повторно
-	/*ifstream iEncryptFile("E:\\programming\\C++\\System programming\\Junior\\home project\\home_project_1\\home_project_1\\chipher_text.txt", ios::binary);//читать
+	ifstream iEncryptFile("chipher_text.txt", ios::binary);//читать
 	iEncryptFile.seekg(0, iEncryptFile.end);
 	size_t fileSize = iEncryptFile.tellg();
 	iEncryptFile.seekg(0, iEncryptFile.beg);
@@ -184,11 +184,11 @@ int main()
 	DecryptAes(encText, plainData);
 	cout << reinterpret_cast<char*>(plainData.data()) << endl;
 
-	ofstream ofile("E:\\programming\\C++\\System programming\\Junior\\home project\\home_project_1\\home_project_1\\decrypt_text.txt", ios::binary);//писать
+	ofstream ofile("decrypt_text.txt", ios::binary);//писать
 	ofile.write(reinterpret_cast<char*>(plainData.data()), plainData.size());
-	ofile.close();*/
+	ofile.close();
 
-	/*
+	
 	try{
 		PasswordToKey(pass);
 		Decrypt();
@@ -199,4 +199,4 @@ int main()
 
 	int x; cin >> x;
 	return 0;
-}*/
+}
