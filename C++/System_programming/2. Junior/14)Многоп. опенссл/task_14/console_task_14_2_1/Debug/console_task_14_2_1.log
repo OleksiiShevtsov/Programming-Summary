@@ -1,3 +1,0 @@
-﻿  pch.cpp
-console_task_14_2_1.obj : error LNK2019: unresolved external symbol "int __cdecl Add(int,int)" (?Add@@YAHHH@Z) referenced in function _main
-E:\programming\C++\System programming\Junior\14)Многоп. опенссл\task_14\Debug\console_task_14_2_1.exe : fatal error LNK1120: 1 unresolved externals

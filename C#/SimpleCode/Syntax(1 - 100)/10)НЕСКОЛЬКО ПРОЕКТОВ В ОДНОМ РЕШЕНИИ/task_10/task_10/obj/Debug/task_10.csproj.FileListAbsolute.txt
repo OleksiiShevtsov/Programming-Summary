@@ -1,7 +1,0 @@
-E:\programming\C#\SimpleCode\Syntax(1 - 100)\10)НЕСКОЛЬКО ПРОЕКТОВ В ОДНОМ РЕШЕНИИ\task_10\task_10\bin\Debug\task_10.exe.config
-E:\programming\C#\SimpleCode\Syntax(1 - 100)\10)НЕСКОЛЬКО ПРОЕКТОВ В ОДНОМ РЕШЕНИИ\task_10\task_10\bin\Debug\task_10.exe
-E:\programming\C#\SimpleCode\Syntax(1 - 100)\10)НЕСКОЛЬКО ПРОЕКТОВ В ОДНОМ РЕШЕНИИ\task_10\task_10\bin\Debug\task_10.pdb
-E:\programming\C#\SimpleCode\Syntax(1 - 100)\10)НЕСКОЛЬКО ПРОЕКТОВ В ОДНОМ РЕШЕНИИ\task_10\task_10\obj\Debug\task_10.csprojAssemblyReference.cache
-E:\programming\C#\SimpleCode\Syntax(1 - 100)\10)НЕСКОЛЬКО ПРОЕКТОВ В ОДНОМ РЕШЕНИИ\task_10\task_10\obj\Debug\task_10.csproj.CoreCompileInputs.cache
-E:\programming\C#\SimpleCode\Syntax(1 - 100)\10)НЕСКОЛЬКО ПРОЕКТОВ В ОДНОМ РЕШЕНИИ\task_10\task_10\obj\Debug\task_10.exe
-E:\programming\C#\SimpleCode\Syntax(1 - 100)\10)НЕСКОЛЬКО ПРОЕКТОВ В ОДНОМ РЕШЕНИИ\task_10\task_10\obj\Debug\task_10.pdb

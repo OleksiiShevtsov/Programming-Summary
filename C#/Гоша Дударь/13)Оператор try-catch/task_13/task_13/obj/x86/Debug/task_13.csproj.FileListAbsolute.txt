@@ -1,5 +1,0 @@
-J:\programming\C#\13)Оператор try-catch\task_13\task_13\obj\x86\Debug\ResolveAssemblyReference.cache
-J:\programming\C#\13)Оператор try-catch\task_13\task_13\bin\Debug\task_13.exe
-J:\programming\C#\13)Оператор try-catch\task_13\task_13\bin\Debug\task_13.pdb
-J:\programming\C#\13)Оператор try-catch\task_13\task_13\obj\x86\Debug\task_13.exe
-J:\programming\C#\13)Оператор try-catch\task_13\task_13\obj\x86\Debug\task_13.pdb

@@ -1,5 +1,0 @@
-J:\programming\C#\Cвои программы\AMC\AMC\AMC\obj\x86\Debug\ResolveAssemblyReference.cache
-J:\programming\C#\Cвои программы\AMC\AMC\AMC\bin\Debug\AMC.exe
-J:\programming\C#\Cвои программы\AMC\AMC\AMC\bin\Debug\AMC.pdb
-J:\programming\C#\Cвои программы\AMC\AMC\AMC\obj\x86\Debug\AMC.exe
-J:\programming\C#\Cвои программы\AMC\AMC\AMC\obj\x86\Debug\AMC.pdb

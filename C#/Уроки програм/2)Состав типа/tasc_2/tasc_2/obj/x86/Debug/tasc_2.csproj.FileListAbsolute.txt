@@ -1,5 +1,0 @@
-C:\Windows\System32\config\systemprofile\Desktop\vinamp\Уроки програм\2)Состав типа\tasc_2\tasc_2\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Windows\System32\config\systemprofile\Desktop\vinamp\Уроки програм\2)Состав типа\tasc_2\tasc_2\bin\Debug\tasc_2.exe
-C:\Windows\System32\config\systemprofile\Desktop\vinamp\Уроки програм\2)Состав типа\tasc_2\tasc_2\bin\Debug\tasc_2.pdb
-C:\Windows\System32\config\systemprofile\Desktop\vinamp\Уроки програм\2)Состав типа\tasc_2\tasc_2\obj\x86\Debug\tasc_2.exe
-C:\Windows\System32\config\systemprofile\Desktop\vinamp\Уроки програм\2)Состав типа\tasc_2\tasc_2\obj\x86\Debug\tasc_2.pdb

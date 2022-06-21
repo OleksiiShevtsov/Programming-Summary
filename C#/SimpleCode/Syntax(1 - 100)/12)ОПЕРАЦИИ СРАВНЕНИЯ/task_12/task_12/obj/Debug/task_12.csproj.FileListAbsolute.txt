@@ -1,7 +1,0 @@
-D:\program\C#\SimpleCode\12)ОПЕРАЦИИ СРАВНЕНИЯ\task_12\task_12\bin\Debug\task_12.exe.config
-D:\program\C#\SimpleCode\12)ОПЕРАЦИИ СРАВНЕНИЯ\task_12\task_12\bin\Debug\task_12.exe
-D:\program\C#\SimpleCode\12)ОПЕРАЦИИ СРАВНЕНИЯ\task_12\task_12\bin\Debug\task_12.pdb
-D:\program\C#\SimpleCode\12)ОПЕРАЦИИ СРАВНЕНИЯ\task_12\task_12\obj\Debug\task_12.csprojAssemblyReference.cache
-D:\program\C#\SimpleCode\12)ОПЕРАЦИИ СРАВНЕНИЯ\task_12\task_12\obj\Debug\task_12.csproj.CoreCompileInputs.cache
-D:\program\C#\SimpleCode\12)ОПЕРАЦИИ СРАВНЕНИЯ\task_12\task_12\obj\Debug\task_12.exe
-D:\program\C#\SimpleCode\12)ОПЕРАЦИИ СРАВНЕНИЯ\task_12\task_12\obj\Debug\task_12.pdb

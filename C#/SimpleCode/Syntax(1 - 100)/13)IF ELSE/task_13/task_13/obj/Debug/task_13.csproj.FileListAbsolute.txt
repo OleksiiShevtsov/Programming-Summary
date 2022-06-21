@@ -1,7 +1,0 @@
-D:\program\C#\SimpleCode\13)IF ELSE\task_13\task_13\bin\Debug\task_13.exe.config
-D:\program\C#\SimpleCode\13)IF ELSE\task_13\task_13\bin\Debug\task_13.exe
-D:\program\C#\SimpleCode\13)IF ELSE\task_13\task_13\bin\Debug\task_13.pdb
-D:\program\C#\SimpleCode\13)IF ELSE\task_13\task_13\obj\Debug\task_13.csprojAssemblyReference.cache
-D:\program\C#\SimpleCode\13)IF ELSE\task_13\task_13\obj\Debug\task_13.csproj.CoreCompileInputs.cache
-D:\program\C#\SimpleCode\13)IF ELSE\task_13\task_13\obj\Debug\task_13.exe
-D:\program\C#\SimpleCode\13)IF ELSE\task_13\task_13\obj\Debug\task_13.pdb

@@ -1,7 +1,0 @@
-E:\programming\C#\Michael Nikolaev\38)Лямбда-выражения\task_38\task_38\bin\Debug\task_38.exe.config
-E:\programming\C#\Michael Nikolaev\38)Лямбда-выражения\task_38\task_38\bin\Debug\task_38.exe
-E:\programming\C#\Michael Nikolaev\38)Лямбда-выражения\task_38\task_38\bin\Debug\task_38.pdb
-E:\programming\C#\Michael Nikolaev\38)Лямбда-выражения\task_38\task_38\obj\Debug\task_38.csprojAssemblyReference.cache
-E:\programming\C#\Michael Nikolaev\38)Лямбда-выражения\task_38\task_38\obj\Debug\task_38.csproj.CoreCompileInputs.cache
-E:\programming\C#\Michael Nikolaev\38)Лямбда-выражения\task_38\task_38\obj\Debug\task_38.exe
-E:\programming\C#\Michael Nikolaev\38)Лямбда-выражения\task_38\task_38\obj\Debug\task_38.pdb

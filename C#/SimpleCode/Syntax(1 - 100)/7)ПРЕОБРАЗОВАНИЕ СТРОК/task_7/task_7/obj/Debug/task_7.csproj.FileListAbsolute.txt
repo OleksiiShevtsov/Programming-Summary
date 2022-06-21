@@ -1,7 +1,0 @@
-E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\7)ПРЕОБРАЗОВАНИЕ СТРОК\task_7\task_7\bin\Debug\task_7.exe.config
-E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\7)ПРЕОБРАЗОВАНИЕ СТРОК\task_7\task_7\bin\Debug\task_7.exe
-E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\7)ПРЕОБРАЗОВАНИЕ СТРОК\task_7\task_7\bin\Debug\task_7.pdb
-E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\7)ПРЕОБРАЗОВАНИЕ СТРОК\task_7\task_7\obj\Debug\task_7.csprojAssemblyReference.cache
-E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\7)ПРЕОБРАЗОВАНИЕ СТРОК\task_7\task_7\obj\Debug\task_7.csproj.CoreCompileInputs.cache
-E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\7)ПРЕОБРАЗОВАНИЕ СТРОК\task_7\task_7\obj\Debug\task_7.exe
-E:\programming\C#\SimpleCode\Синтаксис(1 - 100)\7)ПРЕОБРАЗОВАНИЕ СТРОК\task_7\task_7\obj\Debug\task_7.pdb

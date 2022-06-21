@@ -1,7 +1,0 @@
-E:\programming\C#\Michael Nikolaev\37)Глобальные переменные\task_37\task_37\bin\Debug\task_37.exe.config
-E:\programming\C#\Michael Nikolaev\37)Глобальные переменные\task_37\task_37\bin\Debug\task_37.exe
-E:\programming\C#\Michael Nikolaev\37)Глобальные переменные\task_37\task_37\bin\Debug\task_37.pdb
-E:\programming\C#\Michael Nikolaev\37)Глобальные переменные\task_37\task_37\obj\Debug\task_37.csprojAssemblyReference.cache
-E:\programming\C#\Michael Nikolaev\37)Глобальные переменные\task_37\task_37\obj\Debug\task_37.csproj.CoreCompileInputs.cache
-E:\programming\C#\Michael Nikolaev\37)Глобальные переменные\task_37\task_37\obj\Debug\task_37.exe
-E:\programming\C#\Michael Nikolaev\37)Глобальные переменные\task_37\task_37\obj\Debug\task_37.pdb

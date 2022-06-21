@@ -1,5 +1,0 @@
-J:\programming\C#\11)\task_11\task_11\bin\Debug\task_11.exe
-J:\programming\C#\11)\task_11\task_11\bin\Debug\task_11.pdb
-J:\programming\C#\11)\task_11\task_11\obj\x86\Debug\ResolveAssemblyReference.cache
-J:\programming\C#\11)\task_11\task_11\obj\x86\Debug\task_11.exe
-J:\programming\C#\11)\task_11\task_11\obj\x86\Debug\task_11.pdb

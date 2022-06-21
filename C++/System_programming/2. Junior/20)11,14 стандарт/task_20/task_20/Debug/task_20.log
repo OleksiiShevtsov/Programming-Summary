@@ -1,8 +1,0 @@
-﻿  main.cpp
-  main_enum.cpp
-  main3.cpp
-  main_prof.cpp
-  Generating Code...
-LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
-main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:REF' specification
-  task_20.vcxproj -> E:\programming\C++\System programming\Junior\20)11,14 стандарт\task_20\Debug\task_20.exe

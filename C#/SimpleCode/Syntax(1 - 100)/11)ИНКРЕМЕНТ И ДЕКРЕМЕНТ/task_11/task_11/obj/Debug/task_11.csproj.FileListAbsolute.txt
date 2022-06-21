@@ -1,7 +1,0 @@
-D:\program\C++\CAD\project_1\11)ИНКРЕМЕНТ И ДЕКРЕМЕНТ\task_11\task_11\bin\Debug\task_11.exe.config
-D:\program\C++\CAD\project_1\11)ИНКРЕМЕНТ И ДЕКРЕМЕНТ\task_11\task_11\bin\Debug\task_11.exe
-D:\program\C++\CAD\project_1\11)ИНКРЕМЕНТ И ДЕКРЕМЕНТ\task_11\task_11\bin\Debug\task_11.pdb
-D:\program\C++\CAD\project_1\11)ИНКРЕМЕНТ И ДЕКРЕМЕНТ\task_11\task_11\obj\Debug\task_11.csprojAssemblyReference.cache
-D:\program\C++\CAD\project_1\11)ИНКРЕМЕНТ И ДЕКРЕМЕНТ\task_11\task_11\obj\Debug\task_11.csproj.CoreCompileInputs.cache
-D:\program\C++\CAD\project_1\11)ИНКРЕМЕНТ И ДЕКРЕМЕНТ\task_11\task_11\obj\Debug\task_11.exe
-D:\program\C++\CAD\project_1\11)ИНКРЕМЕНТ И ДЕКРЕМЕНТ\task_11\task_11\obj\Debug\task_11.pdb

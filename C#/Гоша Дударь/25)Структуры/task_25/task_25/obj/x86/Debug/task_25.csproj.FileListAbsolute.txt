@@ -1,5 +1,0 @@
-J:\programming\C#\Гоша Дударь\25)Структуры\task_25\task_25\bin\Debug\task_25.exe
-J:\programming\C#\Гоша Дударь\25)Структуры\task_25\task_25\bin\Debug\task_25.pdb
-J:\programming\C#\Гоша Дударь\25)Структуры\task_25\task_25\obj\x86\Debug\ResolveAssemblyReference.cache
-J:\programming\C#\Гоша Дударь\25)Структуры\task_25\task_25\obj\x86\Debug\task_25.exe
-J:\programming\C#\Гоша Дударь\25)Структуры\task_25\task_25\obj\x86\Debug\task_25.pdb

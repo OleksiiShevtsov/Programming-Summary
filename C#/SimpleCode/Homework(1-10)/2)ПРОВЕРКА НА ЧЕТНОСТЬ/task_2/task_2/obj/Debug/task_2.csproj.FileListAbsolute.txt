@@ -1,7 +1,0 @@
-D:\program\C#\SimpleCode\task_2\task_2\bin\Debug\task_2.exe.config
-D:\program\C#\SimpleCode\task_2\task_2\bin\Debug\task_2.exe
-D:\program\C#\SimpleCode\task_2\task_2\bin\Debug\task_2.pdb
-D:\program\C#\SimpleCode\task_2\task_2\obj\Debug\task_2.csprojAssemblyReference.cache
-D:\program\C#\SimpleCode\task_2\task_2\obj\Debug\task_2.csproj.CoreCompileInputs.cache
-D:\program\C#\SimpleCode\task_2\task_2\obj\Debug\task_2.exe
-D:\program\C#\SimpleCode\task_2\task_2\obj\Debug\task_2.pdb

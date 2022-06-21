@@ -1,7 +1,0 @@
-E:\programming\C#\Уроки програм\6)Интерфейсы\task_6_2\task_6_2\bin\Debug\task_6_2.exe.config
-E:\programming\C#\Уроки програм\6)Интерфейсы\task_6_2\task_6_2\bin\Debug\task_6_2.exe
-E:\programming\C#\Уроки програм\6)Интерфейсы\task_6_2\task_6_2\bin\Debug\task_6_2.pdb
-E:\programming\C#\Уроки програм\6)Интерфейсы\task_6_2\task_6_2\obj\Debug\task_6_2.csprojAssemblyReference.cache
-E:\programming\C#\Уроки програм\6)Интерфейсы\task_6_2\task_6_2\obj\Debug\task_6_2.csproj.CoreCompileInputs.cache
-E:\programming\C#\Уроки програм\6)Интерфейсы\task_6_2\task_6_2\obj\Debug\task_6_2.exe
-E:\programming\C#\Уроки програм\6)Интерфейсы\task_6_2\task_6_2\obj\Debug\task_6_2.pdb
