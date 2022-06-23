@@ -1,0 +1,3 @@
+D:/MyProject/Programming-Summary/C++/SimpleCode/Multithreaded programming(10)/build-1)Thread-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/lesson.dir
+D:/MyProject/Programming-Summary/C++/SimpleCode/Multithreaded programming(10)/build-1)Thread-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/MyProject/Programming-Summary/C++/SimpleCode/Multithreaded programming(10)/build-1)Thread-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
